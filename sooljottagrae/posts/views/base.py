@@ -4,4 +4,4 @@ from posts.models import Post
 
 
 class PostBaseView(View):
-    model = Post
+    form = Postform()
