@@ -1,4 +1,4 @@
-#술조타그래 Web Programming School
+# 술조타그래 Web Programming School
 
 ### 1. 프로젝트 개요
  술조타그래는 술을 좋아 하는 어른들을 위한 문화를 돕기 위한 소셜네트워크서비스(SNS)입니다.
